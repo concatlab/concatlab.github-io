@@ -1,2 +1,2 @@
-# concatlab.github-io
+# concatlab.github.io
 ConcatLab Blog
