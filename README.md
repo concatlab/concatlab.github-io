@@ -1,2 +1,2 @@
 # concatlab.github.io
-ConcatLab Blog
+Future home of the ConcatLab Blog
